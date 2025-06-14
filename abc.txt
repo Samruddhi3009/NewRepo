@@ -1,5 +1,6 @@
 first line of abc
 I am Samruddhi Yande from Pune 
+bachelor's in computer science
 
 
 
