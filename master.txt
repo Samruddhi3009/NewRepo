@@ -1,0 +1,2 @@
+this is master text document 
+and this is open using vi command
